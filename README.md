@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+[![Shreyash Sharma's github stats](https://github-readme-stats.vercel.app/api?username=shreyneil&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyneil&langs_count=10&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 **shreyneil/shreyneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Contact: shreyneil@yahoo.co.in
+- 🔭 Background: [shreyneil.github.io/Home/](shreyneil.github.io/Home/)
+- :earth_americas: Linkedin: [link](https://www.linkedin.com/in/shreyash-sharma-b19918117/)
+- :earth_americas: Stackoverflow: [link](https://stackoverflow.com/users/8095759/shreyash-sharma)
+- :earth_americas: Quora: [link](https://www.quora.com/profile/Shreyash-Sharma-1)
