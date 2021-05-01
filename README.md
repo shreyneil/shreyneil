@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 Contact: shreyneil@yahoo.co.in
-- 🔭 Background: [shreyneil.github.io/Home](shreyneil.github.io/Home)
+- 🔭 Background: [shreyneil.github.io/Home/](https://shreyneil.github.io/Home/)
 - :earth_americas: Linkedin: [link](https://www.linkedin.com/in/shreyash-sharma-b19918117/)
 - :earth_americas: Stackoverflow: [link](https://stackoverflow.com/users/8095759/shreyash-sharma)
 - :earth_americas: Quora: [link](https://www.quora.com/profile/Shreyash-Sharma-1)
