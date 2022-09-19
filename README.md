@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br /><br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyneil&layout=compact)](https://github.com/shreyneil/github-readme-stats)
+
+---
+
+<br />
 
 - 📫 Contact: shreyneil@yahoo.co.in
 - 🔭 Background: [shreyneil.github.io/Home/](https://shreyneil.github.io/Home/)
