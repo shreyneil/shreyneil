@@ -116,9 +116,9 @@ fun_fact: I trained a model that can identify 95+ dog breeds 🐶
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyneil&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shreyneil&theme=tokyonight" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyneil&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyneil&theme=tokyonight" height="180"/>
 
 <br/><br/>
 
