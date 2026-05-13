@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shreyash%20Sharma&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Pet%20Tech%20Builder&descAlignY=52&descSize=18" width="100%"/>
  
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=SDE+%40+ThoughtSpot+%7C+Ex-Paytm+%7C+Ex-VMware+%7C+Ex-Philips;Building+AI-powered+products+that+make+a+difference)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=PM+%40+ThoughtSpot+%7C+Ex-Paytm+%7C+Ex-VMware+%7C+Ex-Philips;Building+AI-powered+products+that+make+a+difference)](https://git.io/typing-svg)
  
 </div>
  
@@ -14,7 +14,7 @@
  
 ```yaml
 name: Shreyash Sharma
-role: Software Development Engineer @ ThoughtSpot
+role: Product Manager @ ThoughtSpot
 location: Bengaluru, India 🇮🇳
 experience:
   - ThoughtSpot
