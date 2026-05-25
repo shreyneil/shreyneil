@@ -5,7 +5,7 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   
-  # Allow manual trigger from the Actions tab
+  # Allow manual trigger from Actions tab
   workflow_dispatch:
   
   # Run when changes are pushed to main
@@ -21,7 +21,8 @@ jobs:
     
     steps:
       - name: Generate Snake (light + dark)
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: shreyneil
           outputs: |
