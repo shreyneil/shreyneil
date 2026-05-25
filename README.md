@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Shreyash%20Sharma&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=30&amp;desc=Product%20Manager%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&amp;descAlignY=52&amp;descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=460&amp;height=28&amp;lines=PM2+%40+ThoughtSpot+%7C+Ex-Paytm+%7C+Ex-VMware;Building+AI-powered+products+%F0%9F%A4%96;Contributor+to+TensorFlow+%7C+CPython+%7C+Retriever;Pet+tech+builder+%F0%9F%90%BE+%7C+Full-stack+hobbyist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=6C63FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=28&amp;lines=PM2+%40+ThoughtSpot+%7C+Ex-Paytm+%7C+Ex-VMware+%7C+Ex-Philips;Building+AI-powered+products+%F0%9F%A4%96;Contributor+to+TensorFlow+%7C+CPython+%7C+Retriever;Pet+tech+builder+%F0%9F%90%BE+%7C+Full-stack+hobbyist)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white)](https://shreyneil.github.io/Home/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/shreyash-sharma-b19918117/)
