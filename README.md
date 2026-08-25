@@ -18,7 +18,7 @@
 ```yaml
 name:       Shreyash Sharma
 handle:     shreyneil
-role:       PM2 @ ThoughtSpot
+role:       Sr.PM @ ThoughtSpot
 location:   Bengaluru, India 🇮🇳
 
 experience:
